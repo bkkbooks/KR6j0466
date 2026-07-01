@@ -1,0 +1,360 @@
+canonical_identifier: bkk:krp/KR6j0466/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0466/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿吒婆𤘽鬼神大將上佛陀羅尼經
+  identifiers:
+    krp: KR6j0466
+    cbeta: T21n1238
+    cbeta_old_id: T21n1238
+    authorityid: CA0000081
+    json_key: T1238
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1238.xml
+    old_id: T21n1238
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0466_000-T.yaml, hash: 'sha256:caf5e7e738b2bb43c29023a8a26da7232c7f5389529e4437f7255e64dbe8c381'}
+  - {seq: 1, filename: KR6j0466_001-T.yaml, hash: 'sha256:4870c1178879b97578e03bb886e107a8643846bf7ac17a6eb5d12fe85f30e415'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0466_000-T.markers.yaml, hash: 'sha256:0fa63431b1346cfd3c4625a3f6c3306ac913f4c756b02c8db4ab0b97644651c0'}
+  - {seq: 1, role: markers, filename: assets/KR6j0466_001-T.markers.yaml, hash: 'sha256:e1084056af3b03e4d8459863776e1eabd2a0fe97c39ef62aef4564029a3c8eb8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8253
+  label: '阿吒婆𤘽鬼神大將上佛陀羅尼
+
+    經一卷亦直云阿吒婆𤘽呪經貞元圓覺'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-1
+    span:
+    - body
+    - 2971
+    - 2971
+  label: 1 阿吒婆拘請賢聖法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-2
+    span:
+    - body
+    - 2988
+    - 2988
+  label: 1 請十方諸佛印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-3
+    span:
+    - body
+    - 3051
+    - 3051
+  label: 2 請觀世音菩薩印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-4
+    span:
+    - body
+    - 3105
+    - 3105
+  label: 3 喚集十四都金剛印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-5
+    span:
+    - body
+    - 3164
+    - 3164
+  label: 4 集三十三天神印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-6
+    span:
+    - body
+    - 3220
+    - 3220
+  label: 5 集二十八宿星天印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-7
+    span:
+    - body
+    - 3291
+    - 3291
+  label: 6 追東方提頭賴吒天王領乾闥婆眾印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-8
+    span:
+    - body
+    - 3353
+    - 3353
+  label: 7 追南方毘流勒叉天王領鳩盤荼眾印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-9
+    span:
+    - body
+    - 3426
+    - 3426
+  label: 8 追西方博叉天王領龍軍眾印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-10
+    span:
+    - body
+    - 3502
+    - 3502
+  label: 9 追北方毘沙門天王領藥叉軍眾印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-11
+    span:
+    - body
+    - 3580
+    - 3580
+  label: 10 集四天王所領四方鬼神藥叉羅剎八部鬼兵印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-12
+    span:
+    - body
+    - 3644
+    - 3644
+  label: 11 集八部龍王軍眾印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-13
+    span:
+    - body
+    - 3710
+    - 3710
+  label: 12 追百千天龍興雲致雨龍王印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-14
+    span:
+    - body
+    - 3790
+    - 3790
+  label: 13 追日天子軍眾印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-15
+    span:
+    - body
+    - 3847
+    - 3847
+  label: 14 追月天子眷屬印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-16
+    span:
+    - body
+    - 3913
+    - 3913
+  label: 15 集一切火天魔兵令伏印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-17
+    span:
+    - body
+    - 3973
+    - 3973
+  label: 16 追閻羅王五道大將軍牛頭兵眾印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-18
+    span:
+    - body
+    - 4024
+    - 4024
+  label: 17 追阿修羅王鬥戰軍眾印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-19
+    span:
+    - body
+    - 4086
+    - 4086
+  label: 18 追羅剎娑王軍兵能鬥戰者急來印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-20
+    span:
+    - body
+    - 4132
+    - 4132
+  label: 19 追五方大力藥叉王軍眾印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-21
+    span:
+    - body
+    - 4174
+    - 4174
+  label: 20 追阿利陀遮文荼印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-22
+    span:
+    - body
+    - 4226
+    - 4226
+  label: 21 追毘那夜迦鬼神王咒印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-23
+    span:
+    - body
+    - 4280
+    - 4280
+  label: 22 集摩醯首羅天王二十八部印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-24
+    span:
+    - body
+    - 4335
+    - 4335
+  label: 23 阿吒薄拘大怒使金剛二十八部神降惡鬼印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-25
+    span:
+    - body
+    - 4397
+    - 4397
+  label: 24 大將大悅會天龍鬼神自護身印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-26
+    span:
+    - body
+    - 4430
+    - 4430
+  label: 25 百事不畏不被刀兵鬼神傷著衣甲印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-27
+    span:
+    - body
+    - 4480
+    - 4480
+  label: 26 千輻輪降鬼印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-28
+    span:
+    - body
+    - 4512
+    - 4512
+  label: 27 立身印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-29
+    span:
+    - body
+    - 4580
+    - 4580
+  label: 28 刀印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-30
+    span:
+    - body
+    - 4627
+    - 4627
+  label: 29 弓箭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-31
+    span:
+    - body
+    - 4681
+    - 4681
+  label: 30 追般若不空罥索使者鬼神印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0466_T_001-mulu-32
+    span:
+    - body
+    - 4782
+    - 4782
+  label: 2 大將使神散禁法
+  type: mulu
+  level: 1
+hash: sha256:3549dcb5435d08dbb59e085aaeba4c66a7c379f64b7e63da3cb74f36743f0ddd
