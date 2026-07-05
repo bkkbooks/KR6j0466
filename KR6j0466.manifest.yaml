@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0466_000.yaml, hash: 'sha256:caf5e7e738b2bb43c29023a8a26da7232c7f5389529e4437f7255e64dbe8c381'}
-  - {seq: 1, filename: KR6j0466_001.yaml, hash: 'sha256:8d5b4596760f54f9fc0d62c8983604c81a5aed08f04cda610d8343749b982dd7'}
+  - {seq: 1, filename: KR6j0466_001.yaml, hash: 'sha256:4870c1178879b97578e03bb886e107a8643846bf7ac17a6eb5d12fe85f30e415'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0466_001.markers.yaml, hash: 'sha256:a2a785a24f9d92b58e70447c5342bf443db9058de45f12e929d2bf4b2732390c'}
+  - {seq: 0, role: markers, filename: assets/KR6j0466_000.markers.yaml, hash: 'sha256:d031c30c7092386af4c89d54a146ad1b296c2d2d64e4ebe6a57bbc38f663f924'}
+  - {seq: 1, role: markers, filename: assets/KR6j0466_001.markers.yaml, hash: 'sha256:14deed3296a75ad1c07cd393ce42516da878bb2ddf881be832203659e2faffd7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -367,7 +368,4 @@ table_of_contents:
   label: 2 大將使神散禁法
   type: mulu
   level: 1
-hash: sha256:715dd86ee9c6247d9c6fe1172ad2b8d46c5e0c3766dd93712aa458547233aa19
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1aa0e6fd80f923d2fbe7132c6d58fc548bf597ca119275dbb3a4dc5a8c2b159b
